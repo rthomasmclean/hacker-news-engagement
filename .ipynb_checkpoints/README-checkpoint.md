@@ -1,0 +1,4 @@
+# Best Time to Post on Hacker News for Engagement¶
+
+## Overview
+This project was inspired by a Dataquest prompt and functions as an analysis of Hacker News posts and ensuing user engagement. The analysis identifies the optimal type and timing for users hoping to generate significant comment volume. The data set is pulled in from Kaggle and covers a sample of posts that have received at least one comment over the past ~12 months. Throughout the project, the data is segmented by post type and hour created to determine drivers of high comment volumes. The `datetime` module is leveraged to handle time inputs from the data set.
